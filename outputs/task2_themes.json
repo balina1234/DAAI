@@ -1,0 +1,397 @@
+{
+  "method_keyword": {
+    "patterns": {
+      "Inflation & Prices": [
+        "inflation\\w*",
+        "disinflation\\w*",
+        "\\bcpi\\b",
+        "price (?:level|pressures?|stability|growth)",
+        "energy prices?",
+        "services? inflation",
+        "core inflation",
+        "wage[- ]price"
+      ],
+      "Interest Rates & Credit": [
+        "interest rates?",
+        "policy rates?",
+        "bank rate",
+        "monetary (?:policy|easing|tightening)",
+        "rate (?:cuts?|hikes?)",
+        "\\bcredit\\b(?! rating)",
+        "\\blending\\b",
+        "borrowing costs?",
+        "\\byields?\\b"
+      ],
+      "Housing & Real Estate": [
+        "\\bhousing\\b",
+        "house prices?",
+        "real estate",
+        "\\bmortgages?\\b",
+        "\\bproperty\\b",
+        "\\brents?\\b|\\brental\\b",
+        "\\bcre\\b",
+        "residential",
+        "\\bhomes?\\b|\\bdwellings?\\b"
+      ],
+      "Banking Capital & Liquidity": [
+        "capital (?:ratios?|buffers?|requirements?|adequacy|position)",
+        "\\bcet1\\b",
+        "tier 1",
+        "\\bccyb\\b|countercyclical capital",
+        "\\bliquidity\\b",
+        "\\blcr\\b",
+        "leverage ratio",
+        "stress tests?",
+        "\\bbanks?\\b|\\bbanking\\b"
+      ],
+      "Sovereign Debt": [
+        "public (?:sector )?(?:net )?debt",
+        "government debt",
+        "\\bsovereign\\b",
+        "\\bgilts?\\b",
+        "debt sustainability",
+        "fiscal (?:deficit|rules?|space)",
+        "debt[- ]to[- ]gdp",
+        "\\bdsa\\b"
+      ],
+      "Labor Market Dynamics": [
+        "labou?r market",
+        "unemployment",
+        "\\bemployment\\b",
+        "\\bwages?\\b",
+        "\\bworkers?\\b",
+        "vacanc\\w+",
+        "participation",
+        "\\bjobs?\\b",
+        "labou?r force"
+      ],
+      "Systemic Financial Risk": [
+        "systemic",
+        "financial stability",
+        "\\bnbfis?\\b|non-?bank",
+        "contagion",
+        "macroprudential",
+        "spillovers?",
+        "vulnerabilit\\w+",
+        "\\bfsap\\b",
+        "market (?:dysfunction|stress|liquidity)",
+        "\\bleverage\\b(?! ratio)",
+        "interconnected\\w*"
+      ]
+    },
+    "total_words": 30453
+  },
+  "themes": [
+    {
+      "theme": "Inflation & Prices",
+      "keyword_mentions": 178,
+      "mentions_per_10k_words": 58.5,
+      "keyword_share_pct": 21.3,
+      "llm_chunk_share_pct": 11.2
+    },
+    {
+      "theme": "Interest Rates & Credit",
+      "keyword_mentions": 139,
+      "mentions_per_10k_words": 45.6,
+      "keyword_share_pct": 16.6,
+      "llm_chunk_share_pct": 12.1
+    },
+    {
+      "theme": "Housing & Real Estate",
+      "keyword_mentions": 94,
+      "mentions_per_10k_words": 30.9,
+      "keyword_share_pct": 11.2,
+      "llm_chunk_share_pct": 3.4
+    },
+    {
+      "theme": "Banking Capital & Liquidity",
+      "keyword_mentions": 154,
+      "mentions_per_10k_words": 50.6,
+      "keyword_share_pct": 18.4,
+      "llm_chunk_share_pct": 7.8
+    },
+    {
+      "theme": "Sovereign Debt",
+      "keyword_mentions": 58,
+      "mentions_per_10k_words": 19.0,
+      "keyword_share_pct": 6.9,
+      "llm_chunk_share_pct": 26.7
+    },
+    {
+      "theme": "Labor Market Dynamics",
+      "keyword_mentions": 155,
+      "mentions_per_10k_words": 50.9,
+      "keyword_share_pct": 18.5,
+      "llm_chunk_share_pct": 8.6
+    },
+    {
+      "theme": "Systemic Financial Risk",
+      "keyword_mentions": 59,
+      "mentions_per_10k_words": 19.4,
+      "keyword_share_pct": 7.0,
+      "llm_chunk_share_pct": 6.9
+    }
+  ],
+  "per_section_counts": [
+    {
+      "section": "0. Press Release and Key Issues",
+      "Inflation & Prices": 16,
+      "Interest Rates & Credit": 7,
+      "Housing & Real Estate": 4,
+      "Banking Capital & Liquidity": 9,
+      "Sovereign Debt": 5,
+      "Labor Market Dynamics": 9,
+      "Systemic Financial Risk": 5
+    },
+    {
+      "section": "1. CONTEXT",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 0,
+      "Housing & Real Estate": 3,
+      "Banking Capital & Liquidity": 3,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 15,
+      "Systemic Financial Risk": 2
+    },
+    {
+      "section": "2. RECENT ECONOMIC DEVELOPMENTS",
+      "Inflation & Prices": 32,
+      "Interest Rates & Credit": 11,
+      "Housing & Real Estate": 40,
+      "Banking Capital & Liquidity": 8,
+      "Sovereign Debt": 2,
+      "Labor Market Dynamics": 13,
+      "Systemic Financial Risk": 3
+    },
+    {
+      "section": "3. OUTLOOK AND RISKS",
+      "Inflation & Prices": 10,
+      "Interest Rates & Credit": 4,
+      "Housing & Real Estate": 1,
+      "Banking Capital & Liquidity": 4,
+      "Sovereign Debt": 2,
+      "Labor Market Dynamics": 7,
+      "Systemic Financial Risk": 2
+    },
+    {
+      "section": "4. POLICY DISCUSSIONS",
+      "Inflation & Prices": 1,
+      "Interest Rates & Credit": 0,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "5. A. Fiscal Policy",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 1,
+      "Housing & Real Estate": 1,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 3,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "6. B. Monetary and Exchange Rate Policies",
+      "Inflation & Prices": 10,
+      "Interest Rates & Credit": 10,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 1,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 1,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "7. C. Macroprudential and Real Estate Polic",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 2,
+      "Housing & Real Estate": 11,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 1
+    },
+    {
+      "section": "8. D. Financial Sector Policies",
+      "Inflation & Prices": 4,
+      "Interest Rates & Credit": 7,
+      "Housing & Real Estate": 12,
+      "Banking Capital & Liquidity": 34,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 9
+    },
+    {
+      "section": "9. E. Contingent Policies",
+      "Inflation & Prices": 6,
+      "Interest Rates & Credit": 4,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 4
+    },
+    {
+      "section": "10. F. Structural Policies",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 0,
+      "Housing & Real Estate": 1,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 20,
+      "Systemic Financial Risk": 1
+    },
+    {
+      "section": "11. STAFF APPRAISAL",
+      "Inflation & Prices": 4,
+      "Interest Rates & Credit": 3,
+      "Housing & Real Estate": 5,
+      "Banking Capital & Liquidity": 3,
+      "Sovereign Debt": 1,
+      "Labor Market Dynamics": 5,
+      "Systemic Financial Risk": 5
+    },
+    {
+      "section": "12. Figures and Statistical Tables",
+      "Inflation & Prices": 18,
+      "Interest Rates & Credit": 19,
+      "Housing & Real Estate": 5,
+      "Banking Capital & Liquidity": 22,
+      "Sovereign Debt": 9,
+      "Labor Market Dynamics": 33,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "13. I. External Sector Assessment",
+      "Inflation & Prices": 3,
+      "Interest Rates & Credit": 2,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 3,
+      "Sovereign Debt": 2,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "14. II. Israel Macroprudential Policy Measur",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 3,
+      "Housing & Real Estate": 5,
+      "Banking Capital & Liquidity": 13,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 1
+    },
+    {
+      "section": "15. III. Public DSA",
+      "Inflation & Prices": 4,
+      "Interest Rates & Credit": 5,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 12,
+      "Sovereign Debt": 26,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "16. IV. Authorities Responses to Past IMF Po",
+      "Inflation & Prices": 2,
+      "Interest Rates & Credit": 4,
+      "Housing & Real Estate": 1,
+      "Banking Capital & Liquidity": 2,
+      "Sovereign Debt": 3,
+      "Labor Market Dynamics": 6,
+      "Systemic Financial Risk": 2
+    },
+    {
+      "section": "17. V. Exposure to Ukraine and Russia",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 0,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 2
+    },
+    {
+      "section": "18. VI. Adverse Scenarios",
+      "Inflation & Prices": 8,
+      "Interest Rates & Credit": 8,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 1,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 5
+    },
+    {
+      "section": "19. VII. Risk Assessment Matrix",
+      "Inflation & Prices": 5,
+      "Interest Rates & Credit": 7,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 4,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 5,
+      "Systemic Financial Risk": 10
+    },
+    {
+      "section": "20. VIII. Assessing the Impact of Increased ",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 3,
+      "Housing & Real Estate": 2,
+      "Banking Capital & Liquidity": 0,
+      "Sovereign Debt": 4,
+      "Labor Market Dynamics": 20,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "21. IX. Financial Conditions",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 16,
+      "Housing & Real Estate": 2,
+      "Banking Capital & Liquidity": 4,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "22. X. Adaptive Learning and Inflation Expec",
+      "Inflation & Prices": 38,
+      "Interest Rates & Credit": 13,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 6,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 10,
+      "Systemic Financial Risk": 0
+    },
+    {
+      "section": "23. XI. Authorities’ Response to Past FSAP R",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 2,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 5,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 4
+    },
+    {
+      "section": "24. Informational Annex",
+      "Inflation & Prices": 0,
+      "Interest Rates & Credit": 2,
+      "Housing & Real Estate": 0,
+      "Banking Capital & Liquidity": 10,
+      "Sovereign Debt": 0,
+      "Labor Market Dynamics": 0,
+      "Systemic Financial Risk": 2
+    },
+    {
+      "section": "25. Statement by the Executive Director",
+      "Inflation & Prices": 17,
+      "Interest Rates & Credit": 6,
+      "Housing & Real Estate": 1,
+      "Banking Capital & Liquidity": 10,
+      "Sovereign Debt": 1,
+      "Labor Market Dynamics": 11,
+      "Systemic Financial Risk": 1
+    }
+  ]
+}

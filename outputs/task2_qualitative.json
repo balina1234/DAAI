@@ -1,0 +1,90 @@
+{
+  "strengths": [
+    {
+      "item": "Strong Bank Capital and Liquidity",
+      "explanation": "The banking sector maintains robust capital adequacy and liquidity coverage ratios that comfortably exceed regulatory minimum requirements.",
+      "evidence_quote": "The capital ratio in the sector was about 14 percent at 2023:Q3 with Tier I capital beyond minimum requirements.",
+      "theme": "Banking Capital & Liquidity",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Credible Monetary Policy Framework",
+      "explanation": "The central bank proactively tightened monetary policy to address elevated inflation and anchor inflation expectations.",
+      "evidence_quote": "The central bank has embarked on a tightening cycle, raising the policy rate from 0.1 in April 2022 to 4.75 percent by May 2023.",
+      "theme": "Interest Rates & Credit",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Robust External Position and Reserves",
+      "explanation": "Israel benefits from a positive net international investment position and substantial international reserves well above adequacy metrics.",
+      "evidence_quote": "The net international investment position remains positive (32 percent of GDP by end-2022), gross external debt is sustainable (about 30 percent of GDP), and gross international reserves (37 percent of GDP at end 2022) are comfortably above standard adequacy metrics.",
+      "theme": "Other",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Rapidly Rebuilt Fiscal Buffers",
+      "explanation": "Prudent fiscal consolidation and strong revenue performance have successfully lowered the public debt-to-GDP ratio.",
+      "evidence_quote": "Supported by strong economic growth and prudent fiscal policies, debt-to-GDP ratios fell to about 61 percent in 2022, down from about 71 percent during the Pandemic.",
+      "theme": "Sovereign Debt",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Vibrant High-Tech Export Sector",
+      "explanation": "The highly productive technology sector continues to drive economic growth and account for the majority of national exports.",
+      "evidence_quote": "Driven by the vibrant high technology sector, Israel’s share of world service exports continues to grow rapidly.",
+      "theme": "Other",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Moderate Energy Dependence",
+      "explanation": "Domestic natural gas production covers more than half of the country's energy consumption, insulating it from external commodity shocks.",
+      "evidence_quote": "Israel’s energy dependence is moderate, with local production covering more than half of domestic consumption.",
+      "theme": "Other",
+      "quote_support": 1.0
+    }
+  ],
+  "vulnerabilities": [
+    {
+      "item": "Elevated Inflation Above Target Range",
+      "explanation": "Headline and core inflation remain above the central bank's target range, driven by broad-based price increases and housing costs.",
+      "evidence_quote": "Headline inflation breached the upper bound of the target range (of one to three percent) in January 2022 and reached 5.4 percent y-o-y twelve months later",
+      "theme": "Inflation & Prices",
+      "quote_support": 1.0
+    },
+    {
+      "item": "High Real Estate Price Pressures",
+      "explanation": "Persistent increases in housing prices and mortgage borrowing have stretched affordability and heightened household debt vulnerability.",
+      "evidence_quote": "Persistently strong house price growth has stretched affordability.",
+      "theme": "Housing & Real Estate",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Judicial Reform Policy Uncertainty",
+      "explanation": "The proposed judicial reforms create ongoing domestic and international uncertainty that risks increasing the economy's price of risk and depressing investment.",
+      "evidence_quote": "Continued uncertainty around the judicial reform presents a notable downside risk.",
+      "theme": "Other",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Dual Economy and High Inequality",
+      "explanation": "Productivity gaps between the high-tech sector and the rest of the economy contribute to relatively high earnings inequality.",
+      "evidence_quote": "High economic growth masks the dual nature of Israel’s economy with highly unequal economic performance across sectors.",
+      "theme": "Labor Market Dynamics",
+      "quote_support": 1.0
+    },
+    {
+      "item": "High Bank Real Estate Concentration",
+      "explanation": "Commercial and residential real estate loans constitute a major portion of bank credit portfolios, posing potential risks from price corrections.",
+      "evidence_quote": "Bank loans for residential and commercial real-estate combined reached 54 percent of total in 2022:Q3, up by approximately 10 percentage points in the last five years.",
+      "theme": "Banking Capital & Liquidity",
+      "quote_support": 1.0
+    },
+    {
+      "item": "Low Labor Participation Among Minorities",
+      "explanation": "Lower labor market participation rates and skill gaps among specific demographic groups remain significant structural challenges.",
+      "evidence_quote": "Additionally, low labor market participation rates and skills among the Arab-Israeli and Haredi populations remains a significant challenge.",
+      "theme": "Labor Market Dynamics",
+      "quote_support": 1.0
+    }
+  ]
+}

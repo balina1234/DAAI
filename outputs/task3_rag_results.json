@@ -1,0 +1,574 @@
+[
+  {
+    "qid": 0,
+    "question": "What does IMF staff recommend for the path of the Bank of Israel's monetary policy rate?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 7,
+        "page": 5,
+        "section": "Press Release and Key Issues",
+        "cosine": 0.7481752634048462
+      },
+      {
+        "chunk_id": 37,
+        "page": 27,
+        "section": "STAFF APPRAISAL",
+        "cosine": 0.7442692518234253
+      },
+      {
+        "chunk_id": 1,
+        "page": 1,
+        "section": "Press Release and Key Issues",
+        "cosine": 0.7260056138038635
+      },
+      {
+        "chunk_id": 0,
+        "page": 1,
+        "section": "Press Release and Key Issues",
+        "cosine": 0.7259721159934998
+      },
+      {
+        "chunk_id": 78,
+        "page": 58,
+        "section": "IV. Authorities Responses to Past IMF Policy Recommendations",
+        "cosine": 0.7152885794639587
+      }
+    ],
+    "mean_cosine": 0.732,
+    "rag_answer": {
+      "answer": "IMF staff recommends that the monetary policy stance remain tight until there are clearer signs that aggregate demand is cooling, and that the Bank of Israel should closely monitor underlying price pressures and stand ready to further hike the policy rate if inflation surprises on the upside or inflation expectations rise past the target band while underlying pressures remain strong.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        1,
+        37
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "Based on IMF Article IV consultations for Israel, staff typically recommend that the Bank of Israel maintain a data-dependent approach to monetary policy. As inflationary pressures moderate and economic activity normalizes following shocks, the IMF advises keeping interest rates at a restrictive level for as long as necessary to anchor inflation firmly within the target range, while remaining flexible to ease policy if downside risks to growth materialize or inflation drops sustainably.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved chunks (especially C1 and C37) provide direct recommendations on the Bank of Israel's monetary policy rate path. The answer accurately reflects the context without hallucination and fully addresses the question."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 2,
+      "answer_relevance": 4,
+      "justification": "The context directly answers the question (C1, C37), recommending a tight stance and readiness to hike further. The model incorrectly claimed data was not found and provided a generic, speculative response containing unsupported claims (e.g., easing policy if downside risks materialize)."
+    }
+  },
+  {
+    "qid": 1,
+    "question": "What is the projected inflation for this year and next, and when is inflation expected to return to the target range?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 41,
+        "page": 29,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.7416156530380249
+      },
+      {
+        "chunk_id": 18,
+        "page": 15,
+        "section": "OUTLOOK AND RISKS",
+        "cosine": 0.7326905131340027
+      },
+      {
+        "chunk_id": 112,
+        "page": 88,
+        "section": "Statement by the Executive Director",
+        "cosine": 0.7306302785873413
+      },
+      {
+        "chunk_id": 40,
+        "page": 30,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.7296832799911499
+      },
+      {
+        "chunk_id": 102,
+        "page": 78,
+        "section": "X. Adaptive Learning and Inflation Expectations Formation in Israel",
+        "cosine": 0.7225564122200012
+      }
+    ],
+    "mean_cosine": 0.731,
+    "rag_answer": {
+      "answer": "Staff projects economic growth to slow to about 2.5 percent in 2023. Inflation is projected to reach the target range by end-2024, while the BOI anticipates inflation to return to its target range of 1-3 percent by the second quarter of 2024.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        18,
+        112
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "I do not have access to the specific details of the latest IMF Article IV report for Israel regarding the exact projected inflation rates for this year and next, or the precise timeline for when inflation is expected to return to the target range.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 3,
+      "justification": "The retrieved context is relevant, and all statements in the answer are directly grounded in the text. However, the answer fails to provide the projected inflation rates for this year and next (erroneously citing 2023 economic growth instead), though it correctly answers when inflation returns to target."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "justification": "The retrieved context contains exact projections for inflation returning to the target range (end-2024 or Q2 2024) and CPI forecasts, but the model incorrectly claimed it lacked this information, leading to low groundedness and answer relevance scores."
+    }
+  },
+  {
+    "qid": 2,
+    "question": "What do staff recommend on bank capital buffers, including the countercyclical capital buffer?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 30,
+        "page": 21,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.7122313976287842
+      },
+      {
+        "chunk_id": 31,
+        "page": 23,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.7035653591156006
+      },
+      {
+        "chunk_id": 25,
+        "page": 20,
+        "section": "A. Fiscal Policy",
+        "cosine": 0.6739672422409058
+      },
+      {
+        "chunk_id": 63,
+        "page": 45,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.6721733808517456
+      },
+      {
+        "chunk_id": 24,
+        "page": 19,
+        "section": "A. Fiscal Policy",
+        "cosine": 0.6608405709266663
+      }
+    ],
+    "mean_cosine": 0.685,
+    "rag_answer": {
+      "answer": "Staff supports the Bank of Israel's retightening of capital requirements and minimum leverage ratios during the post-pandemic rebound to rebuild buffers. Staff also recommends improving supervisory models for the measurement of risk at the individual exposure level to ensure adequate risk-absorbing capacity.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        30
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "I do not have specific information from the latest IMF Article IV report for Israel regarding staff recommendations on bank capital buffers, including the countercyclical capital buffer, within my current knowledge base.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved context explicitly discusses capital requirements, leverage ratios, and risk-absorbing capacity, making it fully relevant. The answer directly addresses the question using only facts supported by the source text."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The context mentions capital requirements and buffers (BOI retightening capital requirements), but since the exact phrase countercyclical capital buffer is not present and the details are limited, the model correctly states it lacks the specific information, yielding a fully grounded and appropriate response."
+    }
+  },
+  {
+    "qid": 3,
+    "question": "What do bank stress tests or financial soundness indicators show about banking-sector resilience?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 31,
+        "page": 23,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.7401825785636902
+      },
+      {
+        "chunk_id": 8,
+        "page": 1,
+        "section": "Press Release and Key Issues",
+        "cosine": 0.7256045341491699
+      },
+      {
+        "chunk_id": 29,
+        "page": 21,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.7217717170715332
+      },
+      {
+        "chunk_id": 96,
+        "page": 74,
+        "section": "IX. Financial Conditions",
+        "cosine": 0.6841839551925659
+      },
+      {
+        "chunk_id": 30,
+        "page": 21,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.6820908784866333
+      }
+    ],
+    "mean_cosine": 0.711,
+    "rag_answer": {
+      "answer": "Staff assesses the banking sector to be broadly robust. The capital ratio in the sector was about 14 percent at 2023:Q3 with Tier I capital beyond minimum requirements. Profits rebounded strongly in 2021 and 2022 with ROE and ROA well above pre-pandemic levels. Liquidity coverage remained comfortably above the 100 percent minimum requirement with LCR at 125 percent in 2022:Q3, and the net stable funding ratio was 126 percent for the average bank in 2022:Q3. The ratio of nonperforming loans to total loans fell to a decade low in 2022:Q3. Furthermore, Bank of Israel stress tests show that the banking system is stable under stress scenarios, with none of the banks experiencing its capital ratio falling below the minimum common equity tier 1 capital ratio.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        29,
+        31
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "According to IMF Article IV reports for Israel, the banking sector has demonstrated strong resilience, supported by solid capital buffers, low leverage, and high asset quality. Bank stress tests regularly conducted by the Bank of Israel, and reviewed in IMF assessments, indicate that commercial banks maintain adequate capital adequacy ratios well above regulatory minimums, enabling them to absorb severe macroeconomic and geopolitical shocks without systemic disruption.",
+      "found_in_context": true,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The context provides direct information on stress tests and financial soundness indicators. The answer accurately uses this information to describe the banking sector's resilience, matching the source text completely and addressing the prompt directly."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 3,
+      "answer_relevance": 5,
+      "justification": "While the context mentions BOI stress tests showing banks are stable under stress scenarios and lists capital/liquidity ratios, the answer introduces extra unsupported claims like 'low leverage' and 'geopolitical shocks' which are not explicitly in the provided text."
+    }
+  },
+  {
+    "qid": 4,
+    "question": "What are the main risks from housing prices and mortgage lending?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 16,
+        "page": 14,
+        "section": "RECENT ECONOMIC DEVELOPMENTS",
+        "cosine": 0.7037044167518616
+      },
+      {
+        "chunk_id": 15,
+        "page": 13,
+        "section": "RECENT ECONOMIC DEVELOPMENTS",
+        "cosine": 0.6935776472091675
+      },
+      {
+        "chunk_id": 28,
+        "page": 21,
+        "section": "C. Macroprudential and Real Estate Policies",
+        "cosine": 0.6928568482398987
+      },
+      {
+        "chunk_id": 30,
+        "page": 21,
+        "section": "D. Financial Sector Policies",
+        "cosine": 0.6794611811637878
+      },
+      {
+        "chunk_id": 38,
+        "page": 28,
+        "section": "STAFF APPRAISAL",
+        "cosine": 0.669365644454956
+      }
+    ],
+    "mean_cosine": 0.688,
+    "rag_answer": {
+      "answer": "Rising house prices reached a zenith in 2022, stretching affordability. While average household indebtedness is low at about 44 percent of GDP, lower-income households and those purchasing in overvalued areas or at their budget maximum are vulnerable to price shocks, rising interest rates, and tightening financial conditions. Rapidly rising interest rates and high indexation increase monthly mortgage payments, raising the average payment-to-income ratio to 27.9 percent during the first three quarters of 2022. Additionally, higher debt payments-to-income reflect these pressures.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        16,
+        15
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "According to IMF Article IV reports for Israel, the main risks associated with high housing prices and mortgage lending involve financial stability concerns for both households and the banking sector. Rapidly rising house prices and large mortgage debt burdens increase household vulnerability to macroeconomic shocks, interest rate hikes, and income fluctuations. For banks, substantial exposure to the real estate sector and mortgage lending elevates credit risk, meaning a sharp correction in housing prices could lead to increased defaults and systemic financial stress.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved context directly addresses housing prices, affordability, and mortgage vulnerabilities. Every statement in the generated answer is explicitly supported by the provided text chunks, and the answer thoroughly addresses the question."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 3,
+      "answer_relevance": 5,
+      "justification": "The context is highly relevant and the answer addresses the question well. However, the mention of systemic banking stress and credit defaults in the answer goes beyond explicit details in the provided text, lowering groundedness."
+    }
+  },
+  {
+    "qid": 5,
+    "question": "What is the projected path of public debt and the fiscal deficit over the medium term?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 22,
+        "page": 18,
+        "section": "A. Fiscal Policy",
+        "cosine": 0.726142942905426
+      },
+      {
+        "chunk_id": 95,
+        "page": 72,
+        "section": "VIII. Assessing the Impact of Increased Public Investment",
+        "cosine": 0.7178807258605957
+      },
+      {
+        "chunk_id": 92,
+        "page": 69,
+        "section": "VIII. Assessing the Impact of Increased Public Investment",
+        "cosine": 0.7123943567276001
+      },
+      {
+        "chunk_id": 24,
+        "page": 19,
+        "section": "A. Fiscal Policy",
+        "cosine": 0.6999416351318359
+      },
+      {
+        "chunk_id": 74,
+        "page": 55,
+        "section": "III. Public DSA",
+        "cosine": 0.6903517246246338
+      }
+    ],
+    "mean_cosine": 0.709,
+    "rag_answer": {
+      "answer": "Over the medium term, the structural deficit is expected to converge to about 3 percent of GDP by 2028. Meanwhile, debt ratios are expected to continue falling to reach about 55 percent of GDP by 2028.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        22
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "I do not have specific information from the latest IMF Article IV report for Israel regarding the exact projected path of public debt and the fiscal deficit over the medium term.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved context directly and accurately answers the question regarding the projected medium-term path of the structural deficit and public debt ratios. All statements in the answer are explicitly supported by the text."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "justification": "The context contains the medium-term projections for the structural deficit (converging to ~3% of GDP by 2028) and debt ratios (falling to ~55% of GDP by 2028). The model gave a 'DATA NOT FOUND' response when the data is clearly present, resulting in poor groundedness and answer relevance."
+    }
+  },
+  {
+    "qid": 6,
+    "question": "What does the report say about the labour market and the unemployment rate?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 38,
+        "page": 28,
+        "section": "STAFF APPRAISAL",
+        "cosine": 0.6403881311416626
+      },
+      {
+        "chunk_id": 41,
+        "page": 29,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.6379690170288086
+      },
+      {
+        "chunk_id": 34,
+        "page": 24,
+        "section": "F. Structural Policies",
+        "cosine": 0.6335861086845398
+      },
+      {
+        "chunk_id": 42,
+        "page": 29,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.6277315020561218
+      },
+      {
+        "chunk_id": 18,
+        "page": 15,
+        "section": "OUTLOOK AND RISKS",
+        "cosine": 0.6231176257133484
+      }
+    ],
+    "mean_cosine": 0.633,
+    "rag_answer": {
+      "answer": "The report notes that as the recovery gained pace, unemployment decreased but started to stabilize by the end of 2022. Employment is recovering as in other advanced economies, though labor force participation remains below pre-pandemic levels. The employment recovery has been uneven across sectors, and while job vacancies started easing across all sectors, the labor market remains tight. Looking ahead, the labor market is expected to remain tight, and with increasing labor force participation, the unemployment rate is expected to marginally increase.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        41,
+        18
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "According to IMF Article IV reports for Israel, the labor market has generally demonstrated strong resilience, characterized by historically low unemployment rates and high labor force participation. The reports often highlight tight labor market conditions, wage pressures driven by high demand for labor, and the ongoing need to integrate specific populations—such as ultra-Orthodox men and Arab women—more fully into the workforce to support long-term productivity and inclusive economic growth.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved contexts contain detailed information about the labor market and unemployment trends, which are fully and accurately captured in the answer."
+    },
+    "judge_closed_book": {
+      "context_relevance": 4,
+      "groundedness": 1,
+      "answer_relevance": 5,
+      "justification": "The retrieved context discusses labor market trends like tight conditions, declining unemployment stabilizing in late 2022, and low participation. However, the answer includes unverified details not found in the text, such as integrating ultra-Orthodox men and Arab women, making it ungrounded."
+    }
+  },
+  {
+    "qid": 7,
+    "question": "What are the main downside risks to the growth outlook identified by staff?",
+    "negative_control": false,
+    "retrieved": [
+      {
+        "chunk_id": 19,
+        "page": 16,
+        "section": "OUTLOOK AND RISKS",
+        "cosine": 0.7063658237457275
+      },
+      {
+        "chunk_id": 18,
+        "page": 15,
+        "section": "OUTLOOK AND RISKS",
+        "cosine": 0.702431321144104
+      },
+      {
+        "chunk_id": 80,
+        "page": 60,
+        "section": "VI. Adverse Scenarios",
+        "cosine": 0.6762962937355042
+      },
+      {
+        "chunk_id": 81,
+        "page": 60,
+        "section": "VI. Adverse Scenarios",
+        "cosine": 0.6704916954040527
+      },
+      {
+        "chunk_id": 83,
+        "page": 62,
+        "section": "VI. Adverse Scenarios",
+        "cosine": 0.6693693399429321
+      }
+    ],
+    "mean_cosine": 0.685,
+    "rag_answer": {
+      "answer": "The main downside risks to the growth outlook identified by staff include spillovers from a weaker global outlook, a renewed surge in global energy prices, new supply chain disruptions, geopolitical tensions including an escalation of Russia’s war in Ukraine, broader geo-economic fragmentation, and heightened global financial volatility from foreign banking sector stress. Continued uncertainty surrounding the judicial reform also presents a notable downside risk that could increase the price of risk, tighten financial conditions, and slow consumption and investment, including through the potential relocation of high-tech firms.",
+      "found_in_context": true,
+      "cited_chunk_ids": [
+        19,
+        80,
+        81
+      ]
+    },
+    "closed_book_answer": {
+      "answer": "I do not have specific information from the latest IMF Article IV report for Israel regarding the main downside risks to the growth outlook in my current knowledge base.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The answer directly addresses the question using fully supported facts from the retrieved context, listing all specific downside risks identified by staff."
+    },
+    "judge_closed_book": {
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1,
+      "justification": "The retrieved documents clearly discuss downside risks to the growth outlook, but the answer incorrectly claims the information is missing, failing to address the question."
+    }
+  },
+  {
+    "qid": 8,
+    "question": "What is the IMF's forecast for the price of Bitcoin in 2026?",
+    "negative_control": true,
+    "retrieved": [
+      {
+        "chunk_id": 18,
+        "page": 15,
+        "section": "OUTLOOK AND RISKS",
+        "cosine": 0.6938427686691284
+      },
+      {
+        "chunk_id": 12,
+        "page": 11,
+        "section": "RECENT ECONOMIC DEVELOPMENTS",
+        "cosine": 0.680707573890686
+      },
+      {
+        "chunk_id": 26,
+        "page": 20,
+        "section": "B. Monetary and Exchange Rate Policies",
+        "cosine": 0.6694575548171997
+      },
+      {
+        "chunk_id": 43,
+        "page": 33,
+        "section": "Figures and Statistical Tables",
+        "cosine": 0.6638011932373047
+      },
+      {
+        "chunk_id": 37,
+        "page": 27,
+        "section": "STAFF APPRAISAL",
+        "cosine": 0.6573476791381836
+      }
+    ],
+    "mean_cosine": 0.673,
+    "rag_answer": {
+      "answer": "DATA NOT FOUND",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "closed_book_answer": {
+      "answer": "I do not know, as the IMF's Article IV reports for Israel focus on macroeconomic policies, fiscal developments, and structural reforms rather than forecasting cryptocurrency prices.",
+      "found_in_context": false,
+      "cited_chunk_ids": []
+    },
+    "citations_valid": true,
+    "judge_rag": {
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The retrieved context contains information about Israel's economy, but not Bitcoin. The answer correctly returns DATA NOT FOUND since the text lacks the answer."
+    },
+    "judge_closed_book": {
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5,
+      "justification": "The context is irrelevant to the question about Bitcoin. The answer correctly states it does not know because the text lacks this information, achieving full groundedness and perfect relevance."
+    }
+  }
+]

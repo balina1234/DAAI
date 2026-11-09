@@ -1,0 +1,846 @@
+{
+  "series": [
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "source_table": "Table 1. Israel: Selected Economic Indicators, 2018–2028",
+      "points": [
+        {
+          "year": 2018,
+          "value": 4.1,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 4.2,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": -1.9,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 8.6,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 6.5,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 2.5,
+          "is_projection": true
+        },
+        {
+          "year": 2024,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2025,
+          "value": 3.4,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 3.6,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 3.7,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 3.8,
+          "is_projection": true
+        }
+      ]
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "source_table": "Table 1. Israel: Selected Economic Indicators, 2018–2028",
+      "points": [
+        {
+          "year": 2018,
+          "value": 4.0,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 3.8,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": 4.3,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 5.0,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 3.8,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2024,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2025,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 4.0,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 4.0,
+          "is_projection": true
+        }
+      ]
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "source_table": "Table 1. Israel: Selected Economic Indicators, 2018–2028",
+      "points": [
+        {
+          "year": 2018,
+          "value": 0.8,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 0.8,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": -0.6,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 1.5,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 4.4,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 4.5,
+          "is_projection": true
+        },
+        {
+          "year": 2024,
+          "value": 3.5,
+          "is_projection": true
+        },
+        {
+          "year": 2025,
+          "value": 2.5,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 2.1,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 2.1,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 2.0,
+          "is_projection": true
+        }
+      ]
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "source_table": "Table 1. Israel: Selected Economic Indicators, 2018–2028",
+      "points": [
+        {
+          "year": 2018,
+          "value": 59.9,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 58.8,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": 70.6,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 68.0,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 61.0,
+          "is_projection": false
+        },
+        {
+          "year": 2023,
+          "value": 57.9,
+          "is_projection": true
+        },
+        {
+          "year": 2024,
+          "value": 55.7,
+          "is_projection": true
+        },
+        {
+          "year": 2025,
+          "value": 55.0,
+          "is_projection": true
+        },
+        {
+          "year": 2026,
+          "value": 54.7,
+          "is_projection": true
+        },
+        {
+          "year": 2027,
+          "value": 54.6,
+          "is_projection": true
+        },
+        {
+          "year": 2028,
+          "value": 54.5,
+          "is_projection": true
+        }
+      ]
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "source_table": "Table 6. Israel: Financial Soundness Indicators, Banks, 2015–22: Q3",
+      "points": [
+        {
+          "year": 2015,
+          "value": 9.9,
+          "is_projection": false
+        },
+        {
+          "year": 2016,
+          "value": 10.9,
+          "is_projection": false
+        },
+        {
+          "year": 2017,
+          "value": 11.1,
+          "is_projection": false
+        },
+        {
+          "year": 2018,
+          "value": 10.9,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 11.3,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": 11.2,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 10.9,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 10.8,
+          "is_projection": false
+        }
+      ]
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "source_table": "Table 6. Israel: Financial Soundness Indicators, Banks, 2015–22: Q3",
+      "points": [
+        {
+          "year": 2015,
+          "value": 1.8,
+          "is_projection": false
+        },
+        {
+          "year": 2016,
+          "value": 1.6,
+          "is_projection": false
+        },
+        {
+          "year": 2017,
+          "value": 1.3,
+          "is_projection": false
+        },
+        {
+          "year": 2018,
+          "value": 1.2,
+          "is_projection": false
+        },
+        {
+          "year": 2019,
+          "value": 1.4,
+          "is_projection": false
+        },
+        {
+          "year": 2020,
+          "value": 1.5,
+          "is_projection": false
+        },
+        {
+          "year": 2021,
+          "value": 1.1,
+          "is_projection": false
+        },
+        {
+          "year": 2022,
+          "value": 0.7,
+          "is_projection": false
+        }
+      ]
+    }
+  ],
+  "verification": [
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2018,
+      "value": 4.1,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2019,
+      "value": 4.2,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2020,
+      "value": -1.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2021,
+      "value": 8.6,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2022,
+      "value": 6.5,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2023,
+      "value": 2.5,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2024,
+      "value": 3.4,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2025,
+      "value": 3.4,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2026,
+      "value": 3.6,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2027,
+      "value": 3.7,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Real GDP growth",
+      "unit": "percent change",
+      "year": 2028,
+      "value": 3.8,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2018,
+      "value": 4.0,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2019,
+      "value": 3.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2020,
+      "value": 4.3,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2021,
+      "value": 5.0,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2022,
+      "value": 3.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2023,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2024,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2025,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2026,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2027,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Unemployment rate",
+      "unit": "percent",
+      "year": 2028,
+      "value": 4.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2018,
+      "value": 0.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2019,
+      "value": 0.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2020,
+      "value": -0.6,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2021,
+      "value": 1.5,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2022,
+      "value": 4.4,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2023,
+      "value": 4.5,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2024,
+      "value": 3.5,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2025,
+      "value": 2.5,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2026,
+      "value": 2.1,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2027,
+      "value": 2.1,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Headline CPI inflation",
+      "unit": "percent change, average",
+      "year": 2028,
+      "value": 2.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2018,
+      "value": 59.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2019,
+      "value": 58.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2020,
+      "value": 70.6,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2021,
+      "value": 68.0,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2022,
+      "value": 61.0,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2023,
+      "value": 57.9,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2024,
+      "value": 55.7,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2025,
+      "value": 55.0,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2026,
+      "value": 54.7,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2027,
+      "value": 54.6,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Public debt",
+      "unit": "percent of GDP",
+      "year": 2028,
+      "value": 54.5,
+      "is_projection": true,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2015,
+      "value": 9.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2016,
+      "value": 10.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2017,
+      "value": 11.1,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2018,
+      "value": 10.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2019,
+      "value": 11.3,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2020,
+      "value": 11.2,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2021,
+      "value": 10.9,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "Tier 1 capital ratio",
+      "unit": "Percentage Points",
+      "year": 2022,
+      "value": 10.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2015,
+      "value": 1.8,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2016,
+      "value": 1.6,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2017,
+      "value": 1.3,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2018,
+      "value": 1.2,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2019,
+      "value": 1.4,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2020,
+      "value": 1.5,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2021,
+      "value": 1.1,
+      "is_projection": false,
+      "value_found_in_source": true
+    },
+    {
+      "indicator": "NPL ratio",
+      "unit": "Percentage Points",
+      "year": 2022,
+      "value": 0.7,
+      "is_projection": false,
+      "value_found_in_source": true
+    }
+  ],
+  "projection_years": [
+    2023,
+    2024,
+    2025,
+    2026,
+    2027,
+    2028
+  ],
+  "table_pages": [
+    5,
+    14,
+    15,
+    35,
+    40,
+    45,
+    55,
+    56
+  ]
+}

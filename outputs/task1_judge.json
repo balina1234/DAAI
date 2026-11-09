@@ -1,0 +1,146 @@
+{
+  "judge_model": "gemini-3.6-flash",
+  "executive_summary": {
+    "consistency": 5,
+    "completeness": 5,
+    "factual_alignment": 5,
+    "unsupported_claims": [],
+    "justification": "The summary accurately reflects the source document across all key areas, including GDP growth, inflation, monetary policy, fiscal outturns, banking sector stability, real estate vulnerabilities, and judicial reform risks. All figures, dates, and policy findings match the report precisely with no unsupported claims or contradictions.",
+    "numbers_supported": 1.0,
+    "numbers_not_found": []
+  },
+  "sections": [
+    {
+      "section_id": 0,
+      "title": "Press Release and Key Issues",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary and key figures accurately reflect the source document without discrepancy. Core findings, risks, policy recommendations, and macroeconomic figures match the text verbatim or near-verbatim.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 1,
+      "title": "CONTEXT",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary and key figures accurately reflect the document's findings, covering the dual economy, high-tech sector performance, judicial reform context, inequality drivers, and war spillovers without factual distortions.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 2,
+      "title": "RECENT ECONOMIC DEVELOPMENTS",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary and key figures are completely consistent with and accurately reflect the source document without factual distortions or unsupported claims. Key economic developments across growth, the labor market, inflation, the housing sector, fiscal outturn, and the external position are well captured.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 3,
+      "title": "OUTLOOK AND RISKS",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately reflects the source text without contradiction or hallucination. Key macroeconomic projections (2023 growth, inflation target horizon) and principal downside risks (notably the estimated GDP impact of judicial reform uncertainty) are captured faithfully.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 4,
+      "title": "POLICY DISCUSSIONS",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately reflects the source text without introducing any unsupported claims. It covers all key points, including macrofinancial resilience, agility in managing risks, and reducing uncertainty surrounding judicial reform and the rule of law to support economic success.",
+      "numbers_supported": null,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 5,
+      "title": "A. Fiscal Policy",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary and key figures are fully accurate and align with the source text. Factual metrics match exactly. Completeness is rated 4 because recommendations on institutional fiscal framework reforms and the establishment of an independent fiscal council were omitted.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 6,
+      "title": "B. Monetary and Exchange Rate Policies",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately captures the core recommendations and findings of the source document, including the tight monetary stance, labor market conditions, policy rate (4.75 percent from footnote 15), and exchange rate policy. All statements align directly with the text.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 7,
+      "title": "C. Macroprudential and Real Estate Policies",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary is fully aligned with the source text. It accurately reflects both paragraph 31 (macroprudential borrower-based measures and debt-servicing capacity) and paragraph 32 (housing supply, property tax structure revision, housing incentive fund, infrastructure investment, and permit lag reductions) without introducing unsupported claims or distorting the original meaning.",
+      "numbers_supported": null,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 8,
+      "title": "D. Financial Sector Policies",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary and key figures are completely aligned with the source document. All numbers, dates, and policy assessments—including banking capital, liquidity, real estate exposures, market interest rate cautions, and AML/CFT recommendations—faithfully represent the text without any unsupported claims.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 9,
+      "title": "E. Contingent Policies",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately and concisely captures all core elements of contingent policies outlined in the text, covering fiscal, monetary, financial sector, and foreign exchange intervention recommendations without any factual discrepancies or unsupported statements.",
+      "numbers_supported": null,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 10,
+      "title": "F. Structural Policies",
+      "consistency": 5,
+      "completeness": 5,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately captures the core structural reform priorities (education, infrastructure, product markets, and climate) and precisely reflects the IMF staff's quantitative simulation findings. All figures and claims are fully supported by the text.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    },
+    {
+      "section_id": 11,
+      "title": "STAFF APPRAISAL",
+      "consistency": 5,
+      "completeness": 4,
+      "factual_alignment": 5,
+      "unsupported_claims": [],
+      "justification": "The summary accurately captures the main takeaways of the Staff Appraisal, aligning precisely with the source text on growth deceleration, fiscal and monetary policy stances, banking sector health, and structural reform priorities. While concise and omitting specific details on inflation forecasts and housing supply recommendations, it contains no factual inaccuracies or unsupported claims.",
+      "numbers_supported": 1.0,
+      "numbers_not_found": []
+    }
+  ]
+}

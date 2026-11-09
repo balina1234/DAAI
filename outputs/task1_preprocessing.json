@@ -1,0 +1,255 @@
+{
+  "cleaning": {
+    "pages": 90,
+    "boilerplate_lines_detected": [
+      "ISRAEL"
+    ],
+    "raw_chars": 210854,
+    "clean_chars": 198794,
+    "words": 30453
+  },
+  "chunking": {
+    "n_chunks": 116,
+    "tokens_mean": 438.1,
+    "tokens_min": 64,
+    "tokens_max": 500,
+    "share_in_target_range": 0.897,
+    "short_chunks_note": "Chunks below 300 tokens are short sections (e.g. Context) that end naturally; they are not padded with text from the next section."
+  },
+  "sections": [
+    {
+      "section_id": 0,
+      "title": "Press Release and Key Issues",
+      "kind": "front",
+      "start_page": 1,
+      "end_page": 7,
+      "n_words": 2319,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 1,
+      "title": "CONTEXT",
+      "kind": "main",
+      "start_page": 8,
+      "end_page": 10,
+      "n_words": 1048,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 2,
+      "title": "RECENT ECONOMIC DEVELOPMENTS",
+      "kind": "main",
+      "start_page": 11,
+      "end_page": 15,
+      "n_words": 1698,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 3,
+      "title": "OUTLOOK AND RISKS",
+      "kind": "main",
+      "start_page": 15,
+      "end_page": 17,
+      "n_words": 874,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 4,
+      "title": "POLICY DISCUSSIONS",
+      "kind": "main",
+      "start_page": 17,
+      "end_page": 17,
+      "n_words": 108,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 5,
+      "title": "A. Fiscal Policy",
+      "kind": "main",
+      "start_page": 18,
+      "end_page": 20,
+      "n_words": 1015,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 6,
+      "title": "B. Monetary and Exchange Rate Policies",
+      "kind": "main",
+      "start_page": 20,
+      "end_page": 21,
+      "n_words": 461,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 7,
+      "title": "C. Macroprudential and Real Estate Policies",
+      "kind": "main",
+      "start_page": 21,
+      "end_page": 21,
+      "n_words": 230,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 8,
+      "title": "D. Financial Sector Policies",
+      "kind": "main",
+      "start_page": 21,
+      "end_page": 24,
+      "n_words": 885,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 9,
+      "title": "E. Contingent Policies",
+      "kind": "main",
+      "start_page": 24,
+      "end_page": 24,
+      "n_words": 245,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 10,
+      "title": "F. Structural Policies",
+      "kind": "main",
+      "start_page": 24,
+      "end_page": 27,
+      "n_words": 1079,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 11,
+      "title": "STAFF APPRAISAL",
+      "kind": "main",
+      "start_page": 27,
+      "end_page": 28,
+      "n_words": 495,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 12,
+      "title": "Figures and Statistical Tables",
+      "kind": "figures",
+      "start_page": 29,
+      "end_page": 46,
+      "n_words": 5164,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 13,
+      "title": "I. External Sector Assessment",
+      "kind": "annex",
+      "start_page": 47,
+      "end_page": 50,
+      "n_words": 1146,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 14,
+      "title": "II. Israel Macroprudential Policy Measures",
+      "kind": "annex",
+      "start_page": 51,
+      "end_page": 51,
+      "n_words": 284,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 15,
+      "title": "III. Public DSA",
+      "kind": "annex",
+      "start_page": 52,
+      "end_page": 57,
+      "n_words": 2009,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 16,
+      "title": "IV. Authorities Responses to Past IMF Policy Recommendations",
+      "kind": "annex",
+      "start_page": 58,
+      "end_page": 58,
+      "n_words": 356,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 17,
+      "title": "V. Exposure to Ukraine and Russia",
+      "kind": "annex",
+      "start_page": 59,
+      "end_page": 59,
+      "n_words": 262,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 18,
+      "title": "VI. Adverse Scenarios",
+      "kind": "annex",
+      "start_page": 60,
+      "end_page": 65,
+      "n_words": 2150,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 19,
+      "title": "VII. Risk Assessment Matrix",
+      "kind": "annex",
+      "start_page": 66,
+      "end_page": 68,
+      "n_words": 1119,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 20,
+      "title": "VIII. Assessing the Impact of Increased Public Investment",
+      "kind": "annex",
+      "start_page": 69,
+      "end_page": 73,
+      "n_words": 1780,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 21,
+      "title": "IX. Financial Conditions",
+      "kind": "annex",
+      "start_page": 74,
+      "end_page": 75,
+      "n_words": 767,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 22,
+      "title": "X. Adaptive Learning and Inflation Expectations Formation in Israel",
+      "kind": "annex",
+      "start_page": 76,
+      "end_page": 79,
+      "n_words": 1427,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 23,
+      "title": "XI. Authorities’ Response to Past FSAP Recommendations",
+      "kind": "annex",
+      "start_page": 80,
+      "end_page": 81,
+      "n_words": 479,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 24,
+      "title": "Informational Annex",
+      "kind": "back",
+      "start_page": 82,
+      "end_page": 86,
+      "n_words": 1384,
+      "heading_fallback": false
+    },
+    {
+      "section_id": 25,
+      "title": "Statement by the Executive Director",
+      "kind": "back",
+      "start_page": 87,
+      "end_page": 90,
+      "n_words": 1669,
+      "heading_fallback": false
+    }
+  ]
+}

@@ -1,0 +1,174 @@
+{
+  "model": "gemini-3.5-flash-lite",
+  "executive_summary": {
+    "bullets": [
+      "Israel experienced impressive economic growth of 6.5 percent in 2022, led by domestic demand, but economic activity is expected to slow down to about 2.5 percent in 2023.",
+      "Headline inflation reached about 5 percent by end 2022 and remained above the target range, prompting the Bank of Israel to raise the policy rate from 0.1 percent in April 2022 to 4.75 percent by May 2023.",
+      "Staff projects overall CPI inflation to return to the targeted range of 1 to 3 percent by end-2024 as the tighter monetary policy stance acts with a transmission lag.",
+      "The general government fiscal balance improved from a deficit of 3.7 percent of GDP in 2021 to a surplus of about 0.6 percent of GDP in 2022, helping reduce debt-to-GDP to about 61 percent in 2022.",
+      "The banking sector remains broadly robust with a capital ratio of about 14 percent at 2023:Q3, a liquidity coverage ratio of 125 percent in 2022:Q3, and nonperforming loans at a decade-low 0.7 percent.",
+      "Pockets of vulnerability in the financial sector require close monitoring, specifically high concentration in real estate lending where bank loans for residential and commercial real estate combined reached 54 percent of total in 2022:Q3.",
+      "House price growth reached 17 percent for 2022, stretching affordability for lower-income households and those purchasing at the maximum of their budgets amidst rising interest rates.",
+      "Downside risks to the outlook include global spillovers, tighter financial conditions, and the continued uncertainty around proposed judicial reforms, which could lower GDP by 0.8 to 2.8 percent per year over a three-year period."
+    ],
+    "overall_risk_assessment": "Risks to the outlook are tilted to the downside due to external spillovers, global financial volatility, and uncertainty surrounding judicial reforms, while inflation risks remain skewed to the upside."
+  },
+  "section_summaries": [
+    {
+      "section_id": 0,
+      "title": "Press Release and Key Issues",
+      "pages": "1–7",
+      "summary": "Following a remarkable recovery from the pandemic, Israel's economic growth is projected to slow in line with potential as inflation falls toward the targeted range by end-2024, though downside risks including external factors and judicial reform uncertainty persist. Policy recommendations stress that economic policy should protect buffers, reduce inflation, maintain macrofinancial resilience, and remain nimble. Key priorities include safeguarding fiscal buffers while raising growth-enhancing spending, maintaining a tight monetary policy stance, bolstering housing supply, and addressing potential growth through structural reforms in education and infrastructure.",
+      "key_figures": [
+        "6.5 percent real GDP growth in 2022",
+        "61 percent debt-to-GDP ratio in 2022",
+        "5 percent inflation by end 2022",
+        "2.5 percent projected economic growth in 2023"
+      ],
+      "word_count": 85,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 1,
+      "title": "CONTEXT",
+      "pages": "8–10",
+      "summary": "High economic growth masks Israel's dual economic structure, with overall GDP in 2022 reaching about 13 percent higher than pre-Covid levels, driven largely by the high-tech sector. However, this asymmetric growth—alongside a new government coalition pursuing controversial judicial reforms and cost-of-living policies—has contributed to high inequality compared to other OECD countries. While direct spillovers from Russia's war in Ukraine remain limited, significant productivity gaps across sectors and low labor market participation among specific populations present ongoing structural challenges.",
+      "key_figures": [
+        "about 13 percent (overall GDP relative to pre-Covid level, 2022)",
+        "about 17 percent of GDP (high-tech sector, 2022)",
+        "10 percent of total employment (high-tech sector, 2022)",
+        "56 percent of total exports (high-tech sector, 2022)"
+      ],
+      "word_count": 80,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 2,
+      "title": "RECENT ECONOMIC DEVELOPMENTS",
+      "pages": "11–15",
+      "summary": "Israel’s impressive economic performance continued in 2022 with GDP increasing 6.5 percent, led by domestic demand, investment, and consumption. Following this strong post-pandemic recovery, the labor market remains tight, inflation has breached the upper bound of the target range, and the central bank has embarked on a tightening cycle. Meanwhile, the financial system supported robust economic activity, housing price growth began to ease, the fiscal outturn improved to a surplus, and the overall external position remained strong.",
+      "key_figures": [
+        "6.5 percent GDP increase in 2022",
+        "4.2 percent unemployment in December 2022",
+        "5.4 percent y-o-y headline inflation twelve months after January 2022",
+        "0.6 percent of GDP surplus in 2022"
+      ],
+      "word_count": 77,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 3,
+      "title": "OUTLOOK AND RISKS",
+      "pages": "15–17",
+      "summary": "Economic growth is expected to slow to about 2.5 percent in 2023 as purchasing power moderates and interest rates remain high, before converging towards its potential. Meanwhile, inflation is projected to reach the target range by end-2024. Downside risks to the outlook include global spillovers, tighter financial conditions, and continued uncertainty surrounding judicial reform, which could lower GDP levels by between 0.8 to 2.8 percent per year over a three-year period. Conversely, risks to inflation remain on the upside due to factors such as potential shekel depreciation.",
+      "key_figures": [
+        "about 2.5 percent economic growth in 2023",
+        "between 0.8 to 2.8 percent per year over a three-year period GDP impact"
+      ],
+      "word_count": 87,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 4,
+      "title": "POLICY DISCUSSIONS",
+      "pages": "17–17",
+      "summary": "Policy actions taken to protect buffers, reduce inflation, and maintain macrofinancial resilience remain broadly appropriate, but policy should stay agile to manage risks while enhancing potential growth. A lasting reduction of uncertainty associated with the ongoing discussion of judicial reform is important to anchor the baseline, requiring a politically sustainable solution that is clearly communicated and well understood both domestically and abroad, as maintaining the strength of the rule of law is vital for economic success.",
+      "key_figures": [],
+      "word_count": 76,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 5,
+      "title": "A. Fiscal Policy",
+      "pages": "18–20",
+      "summary": "Staff assesses the fiscal stance to be appropriate, featuring a structural deficit projected at 1.5 percent of potential GDP in 2023. Stronger-than-anticipated fiscal consolidation in 2022 rebuilt buffers faster than envisaged. The primary balance is projected at a surplus of 1.7 percent of GDP in 2023. Although the fiscal stance is expansionary amidst decelerating domestic demand, the structural deficit remains below pre-pandemic levels. Additional fiscal space is needed for growth-enhancing spending and climate goals, and proactive revenue measures should be taken to finance them while maintaining buffers.",
+      "key_figures": [
+        "1.5 percent of potential GDP in 2023 (structural deficit)",
+        "0.2 percent of potential GDP in 2022 (structural deficit)",
+        "3.5 percent of GDP during 2017-19 (pre-pandemic structural deficit average)",
+        "1.7 percent of GDP in 2023 (primary balance surplus)"
+      ],
+      "word_count": 87,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 6,
+      "title": "B. Monetary and Exchange Rate Policies",
+      "pages": "20–21",
+      "summary": "The central bank has appropriately moved the monetary policy stance above neutral with a current policy rate of 4.75 percent, and it should maintain this restrictive stance while underlying inflation pressures remain strong. Staff assesses that the output gap remains positive and the tight labor market warrants keeping the policy rate elevated. Furthermore, market forces should continue setting the price of the shekel, limiting foreign exchange interventions strictly to addressing disorderly market conditions.",
+      "key_figures": [
+        "4.75 percent for the current level of the policy rate"
+      ],
+      "word_count": 73,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 7,
+      "title": "C. Macroprudential and Real Estate Policies",
+      "pages": "21–21",
+      "summary": "Debt servicing capacity requires close monitoring as retightened borrower-based measures become increasingly binding amid rising interest rates and living costs, necessitating conditional calibration of tools based on sector-specific developments. To alleviate real estate price and affordability pressures, continued increases in housing supply are essential. Staff supports authorities' plans to revise the property tax structure, including establishing a housing incentive fund financed by business property tax and budget supplements to encourage residential building permits by local governments, backed by complementary infrastructure investment and measures to reduce project completion lags.",
+      "key_figures": [],
+      "word_count": 88,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 8,
+      "title": "D. Financial Sector Policies",
+      "pages": "21–24",
+      "summary": "Staff assesses the banking sector as broadly robust, with a capital ratio of about 14 percent at 2023:Q3 and Tier I capital exceeding minimum requirements. While profits and liquidity remain strong and nonperforming loans have fallen, vulnerabilities persist due to high concentrations of real estate loans reaching 54 percent of total loans in 2022:Q3. Staff advises against interfering in market interest rates, recommends further improvements in risk measurement and management, and encourages continued strengthening of the AML/CFT framework.",
+      "key_figures": [
+        "14 percent capital ratio at 2023:Q3",
+        "125 percent liquidity coverage ratio (LCR) in 2022:Q3",
+        "126 percent net stable funding ratio in 2022:Q3",
+        "54 percent real-estate loans to total in 2022:Q3"
+      ],
+      "word_count": 81,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 9,
+      "title": "E. Contingent Policies",
+      "pages": "24–24",
+      "summary": "If downside risks materialize and significant shocks hit Israel's risk premium, policies must remain nimble, utilizing available policy space while securing medium-term sustainability. Fiscal policy can act counter-cyclically if adverse shocks push spending above ceilings, provided communication remains clear. Monetary policy must balance risks, with the BOI ready to tighten if inflationary exchange rate effects dominate, or ease if growth decelerates. Financial sector policies should support credit while protecting stability buffers, and foreign exchange intervention may be appropriate under specific shocks and circumstances.",
+      "key_figures": [],
+      "word_count": 83,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 10,
+      "title": "F. Structural Policies",
+      "pages": "24–27",
+      "summary": "Education reform and infrastructure investment improve productivity, foster participation, and reduce inequality. Specifically, increasing public investment by 30 percent from 2021 levels would raise long-term GDP growth by 10 percent while reducing labor market inequality. Policies must focus on closing skill gaps, particularly for low-participation groups, upgrading transport and digital infrastructure, and advancing product market and climate reforms to support inclusive, sustainable growth.",
+      "key_figures": [
+        "about 3 percent of GDP in 2021-22 (infrastructure spending)",
+        "30 percent (from 2021 levels) (increasing public investment)",
+        "10 percent (raise GDP growth in the long run)"
+      ],
+      "word_count": 63,
+      "rewrites": 0,
+      "meets_limit": true
+    },
+    {
+      "section_id": 11,
+      "title": "STAFF APPRAISAL",
+      "pages": "27–28",
+      "summary": "Israel's remarkable 2022 economic performance is expected to decelerate in 2023 as purchasing power falls and investment is reined in. Staff assesses the fiscal stance as appropriate and the banking sector as broadly robust, though vulnerabilities require monitoring. Monetary policy should remain restrictive until aggregate demand cools, and structural reforms should focus on skills, infrastructure, and market competitiveness.",
+      "key_figures": [
+        "2022 economic performance"
+      ],
+      "word_count": 58,
+      "rewrites": 0,
+      "meets_limit": true
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "evidence": {
+    "country_name": "Israel",
+    "gdp_growth_forecast_pct": {
+      "value": 2.5,
+      "reference_period": "2023 projection",
+      "source_quote": "Staff projects economic growth to slow to about 2.5 percent in 2023, as households purchasing power moderates and firms rein in investment.",
+      "note": "Staff's real GDP growth projection for 2023."
+    },
+    "headline_inflation_rate_pct": {
+      "value": 4.5,
+      "reference_period": "2023 projection",
+      "source_quote": "Overall CPI (percent change, average) ... 2023: 4.5",
+      "note": "Staff projection for average overall CPI inflation in 2023 from Table 1."
+    },
+    "central_bank_policy_rate_pct": {
+      "value": 4.75,
+      "reference_period": "May 2023",
+      "source_quote": "The central bank has embarked on a tightening cycle, raising the policy rate from 0.1 in April 2022 to 4.75 percent by May 2023.",
+      "note": "The level of the central bank policy rate cited in the text for May 2023."
+    },
+    "non_performing_loan_ratio": {
+      "value": 0.7,
+      "reference_period": "2022:Q3",
+      "source_quote": "Nonperforming loans to total gross loans ... 2022Q3: 0.7",
+      "note": "Non-performing loans to total gross loans for the banking system for the latest available period (2022:Q3) from Table 6."
+    },
+    "unemployment_rate_pct": {
+      "value": 4.2,
+      "reference_period": "December 2022",
+      "source_quote": "As labor force participation recovered during 2022 and vacancies levels declined, unemployment slightly increased to 4.2 percent in December, from about 3.5 percent in July 2022 (Figure 4).",
+      "note": "The latest actual unemployment rate cited in the text."
+    },
+    "tier_1_capital_ratio": {
+      "value": 10.8,
+      "reference_period": "2022:Q3",
+      "source_quote": "Regulatory Tier I capital to risk-weighted assets 1/ ... 2022Q3: 10.8",
+      "note": "Regulatory Tier 1 capital to risk-weighted assets for the banking system for the latest available period (2022:Q3) from Table 6."
+    }
+  },
+  "fallback_log": [],
+  "python_checks": [
+    {
+      "field": "gdp_growth_forecast_pct",
+      "value": 2.5,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "value": 4.5,
+      "in_quote": true,
+      "quote_support": 0.25,
+      "scale_flag": false
+    },
+    {
+      "field": "central_bank_policy_rate_pct",
+      "value": 4.75,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "value": 0.7,
+      "in_quote": true,
+      "quote_support": 0.4,
+      "scale_flag": false
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "value": 4.2,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "value": 10.8,
+      "in_quote": true,
+      "quote_support": 0.57,
+      "scale_flag": false
+    }
+  ]
+}

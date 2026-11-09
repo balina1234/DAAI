@@ -1,0 +1,145 @@
+{
+  "judge_model": "gemini-3.6-flash",
+  "summary": [
+    {
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 4.44,
+      "groundedness": 2.44,
+      "answer_relevance": 3.56
+    },
+    {
+      "pipeline": "RAG (single query)",
+      "context_relevance": 4.56,
+      "groundedness": 5.0,
+      "answer_relevance": 4.78
+    }
+  ],
+  "per_query": [
+    {
+      "qid": 0,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 0,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 2,
+      "answer_relevance": 4
+    },
+    {
+      "qid": 1,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 3
+    },
+    {
+      "qid": 1,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1
+    },
+    {
+      "qid": 2,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 2,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 3,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 3,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 3,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 4,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 4,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 3,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 5,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 5,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1
+    },
+    {
+      "qid": 6,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 6,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 4,
+      "groundedness": 1,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 7,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 5,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 7,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 5,
+      "groundedness": 1,
+      "answer_relevance": 1
+    },
+    {
+      "qid": 8,
+      "pipeline": "RAG (single query)",
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5
+    },
+    {
+      "qid": 8,
+      "pipeline": "Closed-book (no RAG)",
+      "context_relevance": 1,
+      "groundedness": 5,
+      "answer_relevance": 5
+    }
+  ]
+}

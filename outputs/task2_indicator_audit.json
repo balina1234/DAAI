@@ -1,0 +1,112 @@
+{
+  "judge_model": "gemini-3.6-flash",
+  "items": [
+    {
+      "field": "gdp_growth_forecast_pct",
+      "verdict": "correct",
+      "value_per_source": 2.5,
+      "comment": "Matches the staff real GDP growth forecast for 2023 in the text and the Selected Economic Indicators table."
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.5,
+      "comment": "Matches the staff projection for average overall CPI inflation for 2023 in Table 1."
+    },
+    {
+      "field": "central_bank_policy_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.75,
+      "comment": "Matches the latest Bank of Israel policy rate level cited in the text (May 2023)."
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "verdict": "correct",
+      "value_per_source": 0.7,
+      "comment": "Matches the latest available banking system non-performing loans to total gross loans ratio (2022:Q3) reported in Table 6."
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.2,
+      "comment": "Matches the latest actual unemployment rate cited in the text (December 2022)."
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "verdict": "correct",
+      "value_per_source": 10.8,
+      "comment": "Matches regulatory Tier 1 capital to risk-weighted assets for 2022:Q3 reported in Table 6."
+    }
+  ],
+  "overall_score": 5,
+  "justification": "All indicators were correctly identified, accurately extracted, and precisely conform to the specified definitions and source text.",
+  "accuracy": 1.0,
+  "table": [
+    {
+      "field": "gdp_growth_forecast_pct",
+      "verdict": "correct",
+      "value_per_source": 2.5,
+      "comment": "Matches the staff real GDP growth forecast for 2023 in the text and the Selected Economic Indicators table.",
+      "value": 2.5,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false,
+      "needs_human_review": false
+    },
+    {
+      "field": "headline_inflation_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.5,
+      "comment": "Matches the staff projection for average overall CPI inflation for 2023 in Table 1.",
+      "value": 4.5,
+      "in_quote": true,
+      "quote_support": 0.25,
+      "scale_flag": false,
+      "needs_human_review": false
+    },
+    {
+      "field": "central_bank_policy_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.75,
+      "comment": "Matches the latest Bank of Israel policy rate level cited in the text (May 2023).",
+      "value": 4.75,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false,
+      "needs_human_review": false
+    },
+    {
+      "field": "non_performing_loan_ratio",
+      "verdict": "correct",
+      "value_per_source": 0.7,
+      "comment": "Matches the latest available banking system non-performing loans to total gross loans ratio (2022:Q3) reported in Table 6.",
+      "value": 0.7,
+      "in_quote": true,
+      "quote_support": 0.4,
+      "scale_flag": false,
+      "needs_human_review": false
+    },
+    {
+      "field": "unemployment_rate_pct",
+      "verdict": "correct",
+      "value_per_source": 4.2,
+      "comment": "Matches the latest actual unemployment rate cited in the text (December 2022).",
+      "value": 4.2,
+      "in_quote": true,
+      "quote_support": 1.0,
+      "scale_flag": false,
+      "needs_human_review": false
+    },
+    {
+      "field": "tier_1_capital_ratio",
+      "verdict": "correct",
+      "value_per_source": 10.8,
+      "comment": "Matches regulatory Tier 1 capital to risk-weighted assets for 2022:Q3 reported in Table 6.",
+      "value": 10.8,
+      "in_quote": true,
+      "quote_support": 0.57,
+      "scale_flag": false,
+      "needs_human_review": false
+    }
+  ]
+}
